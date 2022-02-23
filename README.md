@@ -11,7 +11,7 @@ User Story 2: Register Page
 ```
 As a visitor, when I visit 
 "/register", 
-I see a form to enter my email, password, adventure preferences, address, first and last name,
+I see a form to enter my email, password, adventure preferences(checkboxes), address, first and last name,
 and a link back to the welcome screen. When I register with an email already in use, I receive an error message. 
 If successful, I am taken to my user show page and shown a confirmation message. 
 ```
