@@ -63,7 +63,16 @@ User Story 9: Registered Adventure Search
 ```
 As an registered visitor, when I visit 
 "/adventure/new", 
-I see a personalized greeting, a form to search for adventures by location AND/OR preferences, and a button for "random adventure for you!" 
+I see a personalized greeting, a form to search for adventures by location AND/OR preferences, 
+and a button for "random adventure for you!" 
+``` 
+
+User Story 10: Registered Random Adventure
+```
+As an registered visitor, when I visit 
+"/adventure/new", and click on "random adventure for you!",
+I am shown the 20 closest areas to my location that have activities that match a random preference of mine, 
+a button to "plan an adventure" for each area.  
 ``` 
 
 
