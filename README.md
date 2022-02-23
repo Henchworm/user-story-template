@@ -1,4 +1,4 @@
-# user-story-template
+# first-10-stories
 User Story 1: Welcome Page
 ```
 As a visitor, when I visit 
