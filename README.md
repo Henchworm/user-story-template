@@ -49,14 +49,21 @@ As an unregistered visitor, when I visit
 "/adventure/new",
 I see a form to search adventures based on my location,
 and I am NOT able to specify activities, and page convinces me to register for better functionality, 
-and links to the register page. 
+and links to the register page.
 ``` 
-User Story 8: Registered Adventure Search 
+User Story 8: Unregistered Adventure Search Submit
+```
+As an unregistered visitor, when I visit 
+"/adventure/new",
+and fill in the form with my location, 
+I see a list of the 20 closests recreation areas to my location,
+and am again prompted to register for increased functionality. 
+``` 
+User Story 9: Registered Adventure Search 
 ```
 As an registered visitor, when I visit 
-"/adventure/new",
-I see a form to search adventures based on my location(address) AND/OR activity preferences,
-and I DO NOT see a link to register. 
+"/adventure/new", 
+I see a personalized greeting, a form to search for adventures by location AND/OR preferences, and a button for "random adventure for you!" 
 ``` 
 
 
